@@ -6,20 +6,20 @@
 
 ## Contenido
 
-ℹ️ [Información de la materia](https://github.com/jcausse/ort_se/info/info.pdf)
+ℹ️ [Información de la materia](https://github.com/jcausse/ort_se/blob/main/info/info.pdf)
 
 <br/>
 
-✅ [Material teórico obligatorio](https://github.com/jcausse/ort_se/teoricas)
+✅ [Material teórico obligatorio](https://github.com/jcausse/ort_se/blob/main/teoricas)
 
-➕ [Material teórico extra](https://github.com/jcausse/ort_se/teoricas/extras)
+➕ [Material teórico extra](https://github.com/jcausse/ort_se/blob/main/teoricas/extras)
 
-💪 [Guías de ejercicios](https://github.com/jcausse/ort_se/guias)
+💪 [Guías de ejercicios](https://github.com/jcausse/ort_se/blob/main/guias)
 
  <br/>
 
-⭐ [Listado de estrellas](https://github.com/jcausse/ort_se/info/stars.md)
+⭐ [Listado de estrellas](https://github.com/jcausse/ort_se/blob/main/info/stars.md)
 
-📝 [Listado de calificaciones](https://github.com/jcausse/ort_se/info/notas.md)
+📝 [Listado de calificaciones](https://github.com/jcausse/ort_se/blob/main/info/notas.md)
 
 ---
