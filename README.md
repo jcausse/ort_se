@@ -8,7 +8,7 @@
 
 ℹ️ [Información de la materia](https://github.com/jcausse/ort_se/info/info.pdf)
 
----
+<br/>
 
 ✅ [Material teórico obligatorio](https://github.com/jcausse/ort_se/teoricas)
 
@@ -16,7 +16,7 @@
 
 💪 [Guías de ejercicios](https://github.com/jcausse/ort_se/guias)
 
----
+ <br/>
 
 ⭐ [Listado de estrellas](https://github.com/jcausse/ort_se/info/stars.md)
 
