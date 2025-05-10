@@ -14,12 +14,16 @@
 
 ➕ [Material teórico extra](https://github.com/jcausse/ort_se/blob/main/teoricas/extras)
 
+<br/>
+
 💪 [Guías de ejercicios](https://github.com/jcausse/ort_se/blob/main/guias)
 
- <br/>
+👍 [Soluciones de las guías de ejercicios](https://github.com/jcausse/ort_se/blob/main/guias/soluciones)
 
-⭐ [Listado de estrellas](https://github.com/jcausse/ort_se/blob/main/info/stars.md)
+<br/>
 
-📝 [Listado de calificaciones](https://github.com/jcausse/ort_se/blob/main/info/notas.md)
+⭐ [Listado de estrellas](https://github.com/jcausse/ort_se/blob/main/info/stars.md) (aún no implementado)
+
+📝 [Listado de calificaciones](https://github.com/jcausse/ort_se/blob/main/info/notas.md) (aún no implementado)
 
 ---
