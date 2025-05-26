@@ -22,8 +22,6 @@
 
 <br/>
 
-⭐ [Listado de estrellas](https://github.com/jcausse/ort_se/blob/main/info/stars.md) (aún no implementado)
-
-📝 [Listado de calificaciones](https://github.com/jcausse/ort_se/blob/main/info/notas.md) (aún no implementado)
+⭐ [Estrellas y calificaciones](https://docs.google.com/spreadsheets/d/1GTiw2ArqJIbvbYxBq151sRmy8trj1MJKrZ3EDcgzTds/edit?usp=drive_link)
 
 ---
